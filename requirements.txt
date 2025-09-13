@@ -1,0 +1,7 @@
+pandas
+numpy
+python-dotenv
+duckdb
+pyodbc
+sqlalchemy
+requests
